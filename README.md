@@ -17,6 +17,6 @@ Recently, I built a weather app using the MERN stack, featuring:
 - Responsive, user-friendly UI
 - Modular, scalable codebase
 
-Feel free to check out the project [here](#) (add your repo link)!
+Feel free to check out the project!
 
 Let's connect and build something amazing together ðŸš€
