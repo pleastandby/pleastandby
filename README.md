@@ -18,5 +18,6 @@ Recently, I built a weather app using the MERN stack, featuring:
 - Modular, scalable codebase
 
 Feel free to check out the project!
+[ https://github.com/pleastandby/react-projects.git ]
 
 Let's connect and build something amazing together ðŸš€
